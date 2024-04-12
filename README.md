@@ -16,7 +16,7 @@ SMS Spoofer is a tool for social engineering attacks.
 
 ## Demo application 📥
 
-+ [Download](https://github.com/henszac/SMS-Spoofer-Python-Windows/releases/download/v1.0/SMS-Spoofer.rar) for Windows (Lastest version v1.0)
++ [Download](https://github.com/henszac/SMS-Spoofer-Python-Windows/releases/download/v1.0/SMS-Spoofer-Python-Windows.rar) for Windows (Lastest version v1.0)
   
 *Contact to contact@henszac.com to get a pincode to test the application.*
 
