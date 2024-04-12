@@ -9,7 +9,7 @@ SMS Spoofer is a tool for social engineering attacks.
 + Change the phone number from the sender (+34123456789).
 + Change the name from the sender (John Doe).
 + Support for send messages in ASCII and Unicode characters.
-+ Support for 190 countries *USA not supported*.
++ Support for 190 countries *(USA not supported)*.
 + No installation required.
 + Light.
 + Easy to use.
