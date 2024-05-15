@@ -1,6 +1,6 @@
 # SMS Spoofer ✉️
 
-SMS Spoofer is a tool for social engineering attacks..
+SMS Spoofer is a tool for social engineering attacks.
 
 ![image](https://github.com/henszac/SMS-Spoofer-Python-Windows/assets/166815874/5efb9490-c72f-480e-941f-8d35e150fe9c)
 
