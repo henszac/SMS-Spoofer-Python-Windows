@@ -30,6 +30,12 @@ If you are interested in purchasing this project, you can purchase it by purchas
 
 Contact: **https://t.me/henszac** or **contact@henszac.com**
 
+ ## Buy a pincode 🔑 (spoofing service)
+ 
+If you are interested in using the application already ready for use, you can buy a pincode to use unlimitedly for half a year or a year.
+
+Contact: **https://t.me/henszac** or **contact@henszac.com**
+
 # DISCLAIMER 📜
 
 **THIS APPLICATION ("SMS Spoofer") HAS BEEN CREATED FOR EDUCATIONAL AND LEARNING PURPOSES AND SHOULD BE USED ETHICALLY AND RESPONSIBLY IN COMPLIANCE WITH ALL LAWS OF YOUR COUNTRY.**
